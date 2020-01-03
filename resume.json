@@ -1,0 +1,37 @@
+{
+    "Education 📚": [
+      "B.TECH in Electrical and Electronics Engineering, NEOTIA INSTITUTE OF TECHNOLOGY MANAGEMENT AND SCIENCE, 2012-2016",
+      "Higher Secondary, PURWANCHAL VIDYA MANDIR, 1998-2012",
+      "Tons of online youtube tutorials about programming and front end development, 2016 - Infinite"
+    ],
+    "Work Experience 💼": [
+      "Senior Systems Engineer at Infosys Ltd. - https://www.infosys.com/ - 2017 - Ongoing, 3yr"
+    ],
+    "Tech Stack 💻": [
+      "Angular 4+",
+      "TypeScript",
+      "Firebase",
+      "CSS, Learning SASS",
+      "HTML 5",
+      "JavaScript",
+      "Pyhton",
+      "GIT Terminal",
+      "Corel Draw X7, Figma"
+    ],
+    
+    "Projects 🛠": [
+      "Weather App - http://liveweatherforcast.web.app/",
+      "TIc Tac Game - https://tic-tacgame.web.app/",
+      "Angular Modal Library - https://www.npmjs.com/package/angular-modal-library"
+    ],
+    "Achievements ✌": [
+        "Insta Award @Infosys", 
+        "Article about Angular Modal Library on DEV.to - https://dev.to/siddev/angular-modal-library-h2h"
+      ],
+    "Find Me 🔎": [
+        " https://siddhantjaiswal.dev",
+        " https://www.linkedin.com/in/iamsiddj/",
+        " https://github.com/siddhant-dev",
+        " sid.jaiwal06@gmail.com"
+    ]
+  }
