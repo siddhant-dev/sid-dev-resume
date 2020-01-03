@@ -1,0 +1,18 @@
+{
+  "name": "sid-dev-resume",
+  "version": "1.0.0",
+  "description": "npm style resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "siddhant jaiswal",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.1"
+  }
+}
